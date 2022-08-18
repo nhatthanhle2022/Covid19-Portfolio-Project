@@ -1,6 +1,6 @@
 Link to Dataset: https://ourworldindata.org/covid-deaths
 
-Data Exploration Project: COVID-19 Deaths and Vaccinations on Year 2022
+Data Exploration Project: COVID-19 Deaths and Vaccinations up to July 2022
 
 -- Examine the CovidDeaths dataset
 
